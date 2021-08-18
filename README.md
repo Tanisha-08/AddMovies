@@ -1,4 +1,4 @@
-# Flutter Assignment
+# Flutter
 
 A simple flutter application compatible with Android/iOS devices.
 
